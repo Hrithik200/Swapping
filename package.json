@@ -1,0 +1,23 @@
+{
+  "name": "swapping",
+  "version": "1.0.0",
+  "description": "This is a like a clone on Pancake swap and How it works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hrithik200/Swapping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hrithik200/Swapping/issues"
+  },
+  "homepage": "https://github.com/Hrithik200/Swapping#readme",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
