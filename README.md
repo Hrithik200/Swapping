@@ -15,5 +15,20 @@ npm install ethers@5
 // for Address storage at one place --> AddressList.js
 
 
-// for getting the address used google 
+RUN THE PROJECT
+
+
+install the project 
+npm i 
+then run 
+node PriceFetch.js
+
+you will get console like this
+BUSD Decimals-> 100000000000000000000
+Human Output 0.318744398681209446
+//---------
+
+
+
+
 
